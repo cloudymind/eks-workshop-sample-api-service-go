@@ -1,5 +1,5 @@
 # eks-workshop-sample-api-service-go
-
+# Edit by Brian Hammons
 A sample Kubernetes service used in the [EKS Workshop](https://eksworkshop.com/) CI/CD Pipeline module.
 
 The Dockerfile is a [multi-stage](https://docs.docker.com/develop/develop-images/multistage-build/) build that
